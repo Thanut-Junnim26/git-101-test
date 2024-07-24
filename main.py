@@ -1,4 +1,4 @@
-from typing import List
+from typing import Tuple
 from datetime import datetime
 import boto3
 import json
